@@ -1,12 +1,12 @@
-baseURL = "/hugo-theme-serial-programmer/"
+baseURL = "https://hafzan-technologies.github.io/blog2/"
 languageCode = "en-us"
-title = "Hugo Serial Programmer"
+title = "Chronicles of Amaanullah"
 rssLimit = 20
-copyright = "2021 Janne Kemppainen All rights reserved"
+copyright = "2021 Amaanullah Bhatti All rights reserved"
 minify = false
 
 [Author]
-  name = "sharadcodes"
+  name = "Amaanullah Bhatti"
   email = "me@example.com"
 
 [permalinks]
